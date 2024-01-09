@@ -8,7 +8,7 @@
 I'm a highly determined individual, quick adapting, and a passionate (Computer Science). Eager to learn new things and up to any challenges. Equally good in individual and team work.
 
 <a href="https://my-stats-ashaffah.vercel.app">
-<img height=200 align="center" src="https://my-stats-ashaffah.vercel.app/api/top-langs/?username=Ashaffah&hide=scss,less,ejs,ruby,swift,python,c,shell,dockerfile,c%23,css,html,cmake&layout=compact&langs_count=8&title_color=1F0954"/>
+<img height=200 align="center" src="https://my-stats-ashaffah.vercel.app/api/top-langs/?username=Ashaffah&hide=scss,less,ejs,dockerfile,css,html&layout=compact&langs_count=8&title_color=1F0954"/>
 </a>
 
 <a href="https://my-stats-ashaffah.vercel.app">
