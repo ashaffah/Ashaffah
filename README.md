@@ -18,7 +18,7 @@ I'm a highly determined individual, quick adapting, and a passionate (Computer S
 </a>
 
 <a href="https://my-stats-ashaffah.vercel.app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Ashaffah&hide=scss,less,css,html,markdown,prisma&title_color=1F0954&layout=compact&langs_count=10"/>
+  <img align="center" src="https://my-stats-ashaffah.vercel.app/api/wakatime?username=@Ashaffah&hide=scss,less,css,html,markdown,prisma&title_color=1F0954&layout=compact&langs_count=10"/>
 </a>
 
 <!--
