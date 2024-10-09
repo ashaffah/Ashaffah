@@ -14,11 +14,11 @@ I'm a highly determined individual, quick adapting, and a passionate (Computer S
 -->
 
 <!-- <a href="https://my-stats-ashaffah.vercel.app"> -->
-  <img align="center" src="https://my-stats-ashaffah.vercel.app/api/top-langs/?username=Ashaffah&hide=scss,css,html&layout=compact&langs_count=20&card_width=500&theme=github_dark_dimmed"/>
+  <img align="center" src="https://my-stats-ashaffah.vercel.app/api/top-langs/?username=Ashaffah&hide=scss,css,html&layout=compact&langs_count=20&title_color=1F0954&card_width=500"/>
 <!-- </a> -->
 
 <!-- <a href="https://my-stats-ashaffah.vercel.app"> -->
-  <img align="center" src="https://my-stats-ashaffah.vercel.app/api/wakatime?username=@Ashaffah&layout=compact&theme=github_dark_dimmed" width="500"/>
+  <img align="center" src="https://my-stats-ashaffah.vercel.app/api/wakatime?username=@Ashaffah&layout=compact&title_color=1F0954" width="500"/>
 <!-- </a> -->
 
 <!--
