@@ -12,7 +12,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           base_indepth: yes
@@ -21,8 +21,12 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_colors: github
           plugin_languages_sections: most-used, recently-used
           plugin_languages_details: lines, bytes-size, percentage
-          plugin_languages_indepth: yes
+          plugin_languages_recent_load: 600
+          plugin_languages_recent_days: 30
+          plugin_languages_threshold: 0%
           plugin_stars: yes
           debug: yes
