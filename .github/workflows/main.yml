@@ -18,7 +18,7 @@ jobs:
           base_indepth: yes
           output_action: commit
           committer_message: "chore: update metrics"
-          committer: "test",
+          committer: "test"
           plugin_wakatime: yes
           plugin_wakatime_days: 365
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
