@@ -16,8 +16,10 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           base_indepth: yes
-          output_action: commit
-          committer_message: "chore: update metrics"
+          # output_action: commit
+          # committer_message: "chore: update metrics"
+          output_action: gist
+          committer_gist: ${{ secrets.GIST }}
           plugin_wakatime: yes
           plugin_wakatime_days: 365
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
